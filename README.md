@@ -1,12 +1,13 @@
 # riscv-toolchain
 
-Build riscv toolchain in Docker
+Build bleeding edge riscv toolchain in Docker(~1.5GB in size).
 
-1. build docker image
+1. build docker image: jiegec/riscv-toolchain-builder
 2. build binutils
 3. build gcc stage 1
 4. build newlib-cygwin
 5. build gcc stage 2
+6. build docker image: jiegec/riscv-toolchain
 
 Reference:
 
