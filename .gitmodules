@@ -1,3 +1,9 @@
 [submodule "binutils-gdb"]
 	path = binutils-gdb
 	url = https://mirrors.tuna.tsinghua.edu.cn/git/binutils-gdb.git
+[submodule "gcc"]
+	path = gcc
+	url = https://mirrors.tuna.tsinghua.edu.cn/git/gcc.git
+[submodule "newlib-cygwin"]
+	path = newlib-cygwin
+	url = git://sourceware.org/git/newlib-cygwin.git
