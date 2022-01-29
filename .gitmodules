@@ -1,0 +1,3 @@
+[submodule "binutils-gdb"]
+	path = binutils-gdb
+	url = https://mirrors.tuna.tsinghua.edu.cn/git/binutils-gdb.git
