@@ -5,7 +5,7 @@ Build bleeding edge riscv toolchain in Docker(~1.5GB in size).
 Packages:
 
 1. GCC 12.0.1
-2. Binutils 2.38.50
+2. Binutils 2.38
 3. Newlib 4.1.0
 
 Steps:
