@@ -1,4 +1,4 @@
-riscv64-unknown-elf-gcc (GCC) 12.0.1 20220129 (experimental)
+riscv64-unknown-elf-gcc (GCC) 12.0.1 20220308 (experimental)
 Copyright (C) 2022 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
