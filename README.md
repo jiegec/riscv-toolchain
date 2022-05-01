@@ -21,3 +21,5 @@ Reference:
 
 1. https://github.com/riscv-collab/riscv-gnu-toolchain
 2. http://www.ifp.illinois.edu/~nakazato/tips/xgcc.html
+
+Alternative ways: you can use crosstool-ng: `ct-ng riscv64-unknown-elf && ct-ng build`.
